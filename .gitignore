@@ -1,0 +1,6 @@
+venv/
+*.pt
+*.mp4
+__pycache__/
+*.pyc
+tempCodeRunnerFile.py
